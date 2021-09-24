@@ -6,8 +6,7 @@ The is a SMS Spam related dataset. It is a public set of SMS labeled messages th
 This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/sms+spam+collection and you can download it here in csv format as well.
 
 # Project Introduction 
-In this project, Natural Language Processing (NLP) will be the major methodology of the entire project. 
-Classification and clustering will be applied into the dataset to predict email types and dividing similar sms keywords into numbers of groups. 
+The Classification and Clustering in Natural Language Processing (NLP) will be applied. Our target is to predict email types (ham or spam) and divide similar sms keywords into numbers of groups. 
 
 # Creator
 Jerry Ng (City University of Hong Kong) 

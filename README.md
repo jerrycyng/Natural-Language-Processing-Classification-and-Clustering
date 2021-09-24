@@ -10,6 +10,7 @@ The Classification and Clustering in Natural Language Processing (NLP) will be a
 
 # Methodologies 
 LinearSVC and TfidfVectorizer (Classification)
+
 K-Means-Clustering (Clustering) -> In Progress
 
 # Creator

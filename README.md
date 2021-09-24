@@ -9,5 +9,5 @@ This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/sms+spam
 In this project, Natural Language Processing (NLP) will be the major methodology of the entire project. 
 Classification and clustering will be applied into the dataset to predict email types and dividing similar sms keywords into numbers of groups. 
 
-#Creator 
+# Creator
 Jerry Ng (City University of Hong Kong) 

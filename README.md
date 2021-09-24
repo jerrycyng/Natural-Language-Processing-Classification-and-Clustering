@@ -8,5 +8,8 @@ This dataset is downloaded from https://archive.ics.uci.edu/ml/datasets/sms+spam
 # Project Introduction 
 The Classification and Clustering in Natural Language Processing (NLP) will be applied. Our target is to predict email types (ham or spam) and divide similar sms keywords into numbers of groups. 
 
+# Methodologies 
+LinearSVC and TfidfVectorizer
+
 # Creator
 Jerry Ng (City University of Hong Kong) 
